@@ -1,0 +1,5 @@
+Sticker [papel=Holografico, film=true, tamaño=7, nombre=Miku, tipo=Stiker, precioUnitario=5.0, cantidad=20]
+Pin [tamaño=5, nombre=EkekoMichi, tipo=Pin, precioUnitario=5.0, cantidad=10]
+Pin [tamaño=10, nombre=Mariposa, tipo=Pin, precioUnitario=30.0, cantidad=0]
+Print [papel=Fotografico, tamaño=A3, nombre=MyMelody, tipo=Print, precioUnitario=10.0, cantidad=5]
+Sticker [papel=Metalico, film=true, tamaño=3, nombre=YOYO, tipo=Sticker, precioUnitario=50.0, cantidad=10]

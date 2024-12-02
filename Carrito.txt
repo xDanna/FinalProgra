@@ -1,0 +1,2 @@
+00850;Productos{Sticker [papel=Holografico, film=false, tamaño=7.5, nombre=Miku, tipo=Sticker, precioUnitario=3.0, cantidad=20], Pin [tamaño=5, nombre=EkekoMichi, tipo=Pin, precioUnitario=5.0, cantidad=10], Pin [tamaño=10, nombre=Mariposa, tipo=Pin, precioUnitario=30.0, cantidad=0]};Pendiente
+00850;Productos{Sticker [papel=Holografico, film=false, tamaño=7.5, nombre=Miku, tipo=Sticker, precioUnitario=3.0, cantidad=20], };Pendiente
